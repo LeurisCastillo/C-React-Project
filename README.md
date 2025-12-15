@@ -21,18 +21,7 @@ Este repositorio cumple con los requisitos de la prueba técnica (React + ASP.NE
 
 ## Ejecutar localmente
 
-### 1) SQL Server (opción rápida con Docker)
-
-En la raíz:
-
-```bash
-docker compose up -d
-```
-
-> Usuario: `sa`  
-> Password: `Your_password123`
-
-### 2) Backend
+### 1) Backend
 
 ```bash
 cd server
@@ -48,7 +37,7 @@ dotnet run --project src/CandidatesChannels.WebApi
 
 > Cambia el `Jwt:Key` en `server/src/CandidatesChannels.WebApi/appsettings.json` por una clave larga (>= 32 chars).
 
-### 3) Frontend
+### 2) Frontend
 
 ```bash
 cd client
