@@ -1,0 +1,11 @@
+C:\Users\LeurisDeLosSantos\Desktop\candidatos-canales\server\src\CandidatesChannels.Domain\bin\Debug\net8.0\CandidatesChannels.Domain.deps.json
+C:\Users\LeurisDeLosSantos\Desktop\candidatos-canales\server\src\CandidatesChannels.Domain\bin\Debug\net8.0\CandidatesChannels.Domain.dll
+C:\Users\LeurisDeLosSantos\Desktop\candidatos-canales\server\src\CandidatesChannels.Domain\bin\Debug\net8.0\CandidatesChannels.Domain.pdb
+C:\Users\LeurisDeLosSantos\Desktop\candidatos-canales\server\src\CandidatesChannels.Domain\obj\Debug\net8.0\CandidatesChannels.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LeurisDeLosSantos\Desktop\candidatos-canales\server\src\CandidatesChannels.Domain\obj\Debug\net8.0\CandidatesChannels.Domain.AssemblyInfoInputs.cache
+C:\Users\LeurisDeLosSantos\Desktop\candidatos-canales\server\src\CandidatesChannels.Domain\obj\Debug\net8.0\CandidatesChannels.Domain.AssemblyInfo.cs
+C:\Users\LeurisDeLosSantos\Desktop\candidatos-canales\server\src\CandidatesChannels.Domain\obj\Debug\net8.0\CandidatesChannels.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LeurisDeLosSantos\Desktop\candidatos-canales\server\src\CandidatesChannels.Domain\obj\Debug\net8.0\CandidatesChannels.Domain.dll
+C:\Users\LeurisDeLosSantos\Desktop\candidatos-canales\server\src\CandidatesChannels.Domain\obj\Debug\net8.0\refint\CandidatesChannels.Domain.dll
+C:\Users\LeurisDeLosSantos\Desktop\candidatos-canales\server\src\CandidatesChannels.Domain\obj\Debug\net8.0\CandidatesChannels.Domain.pdb
+C:\Users\LeurisDeLosSantos\Desktop\candidatos-canales\server\src\CandidatesChannels.Domain\obj\Debug\net8.0\ref\CandidatesChannels.Domain.dll

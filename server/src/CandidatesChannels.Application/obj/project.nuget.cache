@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qYsJnopXJ9I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LeurisDeLosSantos\\Desktop\\candidatos-canales\\server\\src\\CandidatesChannels.Application\\CandidatesChannels.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LeurisDeLosSantos\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
+    "C:\\Users\\LeurisDeLosSantos\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.10.0\\fluentvalidation.dependencyinjectionextensions.11.10.0.nupkg.sha512",
+    "C:\\Users\\LeurisDeLosSantos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

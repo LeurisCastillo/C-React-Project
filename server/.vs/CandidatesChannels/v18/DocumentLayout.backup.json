@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LeurisDeLosSantos\\Desktop\\candidatos-canales\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B65783-4B64-4DBE-8B8E-1E6B2D2B6409}|src\\CandidatesChannels.WebApi\\CandidatesChannels.WebApi.csproj|c:\\users\\leurisdelossantos\\desktop\\candidatos-canales\\server\\src\\candidateschannels.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B65783-4B64-4DBE-8B8E-1E6B2D2B6409}|src\\CandidatesChannels.WebApi\\CandidatesChannels.WebApi.csproj|solutionrelative:src\\candidateschannels.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F83D92-9C92-4A5F-A85C-FA87BD09D2BC}|src\\CandidatesChannels.Infrastructure\\CandidatesChannels.Infrastructure.csproj|c:\\users\\leurisdelossantos\\desktop\\candidatos-canales\\server\\src\\candidateschannels.infrastructure\\seed\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F83D92-9C92-4A5F-A85C-FA87BD09D2BC}|src\\CandidatesChannels.Infrastructure\\CandidatesChannels.Infrastructure.csproj|solutionrelative:src\\candidateschannels.infrastructure\\seed\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\LeurisDeLosSantos\\Desktop\\candidatos-canales\\server\\src\\CandidatesChannels.Infrastructure\\Seed\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "src\\CandidatesChannels.Infrastructure\\Seed\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\LeurisDeLosSantos\\Desktop\\candidatos-canales\\server\\src\\CandidatesChannels.Infrastructure\\Seed\\DbSeeder.cs",
+              "RelativeToolTip": "src\\CandidatesChannels.Infrastructure\\Seed\\DbSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T16:11:34.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LeurisDeLosSantos\\Desktop\\candidatos-canales\\server\\src\\CandidatesChannels.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\CandidatesChannels.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\LeurisDeLosSantos\\Desktop\\candidatos-canales\\server\\src\\CandidatesChannels.WebApi\\Program.cs",
+              "RelativeToolTip": "src\\CandidatesChannels.WebApi\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T16:09:47.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "4xmqoloi+3Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LeurisDeLosSantos\\Desktop\\candidatos-canales\\server\\tests\\CandidatesChannels.Application.Tests\\CandidatesChannels.Application.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LeurisDeLosSantos\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\LeurisDeLosSantos\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
+    "C:\\Users\\LeurisDeLosSantos\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.10.0\\fluentvalidation.dependencyinjectionextensions.11.10.0.nupkg.sha512",
+    "C:\\Users\\LeurisDeLosSantos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\LeurisDeLosSantos\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\LeurisDeLosSantos\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\LeurisDeLosSantos\\.nuget\\packages\\xunit\\2.8.1\\xunit.2.8.1.nupkg.sha512",
+    "C:\\Users\\LeurisDeLosSantos\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\LeurisDeLosSantos\\.nuget\\packages\\xunit.analyzers\\1.14.0\\xunit.analyzers.1.14.0.nupkg.sha512",
+    "C:\\Users\\LeurisDeLosSantos\\.nuget\\packages\\xunit.assert\\2.8.1\\xunit.assert.2.8.1.nupkg.sha512",
+    "C:\\Users\\LeurisDeLosSantos\\.nuget\\packages\\xunit.core\\2.8.1\\xunit.core.2.8.1.nupkg.sha512",
+    "C:\\Users\\LeurisDeLosSantos\\.nuget\\packages\\xunit.extensibility.core\\2.8.1\\xunit.extensibility.core.2.8.1.nupkg.sha512",
+    "C:\\Users\\LeurisDeLosSantos\\.nuget\\packages\\xunit.extensibility.execution\\2.8.1\\xunit.extensibility.execution.2.8.1.nupkg.sha512",
+    "C:\\Users\\LeurisDeLosSantos\\.nuget\\packages\\xunit.runner.visualstudio\\2.8.1\\xunit.runner.visualstudio.2.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}
