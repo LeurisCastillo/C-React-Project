@@ -1,23 +1,23 @@
 # Candidates Channels – Fullstack React + ASP.NET Core (Clean Architecture)
 
-Este repositorio cumple con los requisitos de la prueba técnica (React + ASP.NET Core, endpoints REST, SQL Server, JWT y consumo de API pública externa). fileciteturn1file1L22-L47
+Este repositorio cumple con los requisitos de la prueba técnica (React + ASP.NET Core, endpoints REST, SQL Server, JWT y consumo de API pública externa).
 
 ## Estructura
 
-- `server/` Backend ASP.NET Core siguiendo **Clean Architecture** (Domain / Application / Infrastructure / WebApi). fileciteturn1file2L22-L27
+- `server/` Backend ASP.NET Core siguiendo **Clean Architecture** (Domain / Application / Infrastructure / WebApi).
 - `client/` Frontend React con routing, estado global (Context API), formularios con validación, consumo de API.
 
 ## Requisitos funcionales cubiertos
 
 - Auth:
-  - `POST /api/auth/login` devuelve JWT. fileciteturn1file0L31-L34
+  - `POST /api/auth/login` devuelve JWT.
 - Products:
   - `GET /api/products` con filtros básicos (category/search) + paginación. fileciteturn1file0L36-L38
   - `GET /api/products/{id}` detalle. fileciteturn1file1L37-L41
   - `POST /api/products` crea (protegido con JWT rol Admin).
   - `DELETE /api/products/{id}` elimina (protegido con JWT rol Admin). fileciteturn1file0L40-L44
 - API pública externa:
-  - `GET /api/external/weather?city=...` consume Open-Meteo desde backend y retorna datos filtrados. fileciteturn1file0L46-L49
+  - `GET /api/external/weather?city=...` consume Open-Meteo desde backend y retorna datos filtrados.
 
 ## Ejecutar localmente
 
