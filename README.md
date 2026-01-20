@@ -1,6 +1,6 @@
 # Candidates Channels – Fullstack React + ASP.NET Core (Clean Architecture)
 
-Este repositorio cumple con los requisitos de la prueba técnica (React + ASP.NET Core, endpoints REST, SQL Server, JWT y consumo de API pública externa).
+(React + ASP.NET Core, endpoints REST, SQL Server, JWT y consumo de API pública externa).
 
 ## Estructura
 
